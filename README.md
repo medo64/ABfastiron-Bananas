@@ -1,6 +1,6 @@
 # A-BFastiron SS-305MP Banana Board
 
-Board is intended for placing banana connectors at standard 19.05 spacing.
+Board is intended for placing banana connectors at standard 19.05 mm spacing.
 
 
 ---
