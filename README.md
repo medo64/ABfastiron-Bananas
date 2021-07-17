@@ -6,5 +6,6 @@ Board is intended for placing banana connectors at standard 19.05 mm spacing.
 ---
 
 See also:
-* [Parts](Board/ABfastiron-Bananas.md)
-* [3D Model](Board/ABfastiron-Bananas-Binding.md)
+* [Board Parts](Board/ABfastiron-Bananas.md)
+* [Binding Post Base 3D Model](Board/ABfastiron-Bananas-Binding.md)
+* [Spacing Post Spacer 3D Model](Board/ABfastiron-Bananas-Spacing.md)
