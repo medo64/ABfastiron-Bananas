@@ -14,13 +14,13 @@
 
 ## Stackup
 
-| 3D Printed             | Not 3D Printed         |
-|:----------------------:|:----------------------:|
-| Connector              | Connector              |
-| Printed Binding Base   | Binding Base           |
-| (case)                 | (case)                 |
-| Printed Binding Spacer | Post's Plastic Spacer  |
-| Post's Plastic Spacer  | Hex nut                |
-| PCB Board              | PCB Board              |
-| Post's Lock Washer     | Post's Lock Washer     |
-| Post's Hex Nut         | Post's Hex Nut         |
+| 3D Printed             | Not 3D Printed         | 3D Printed With Nut    |
+|:----------------------:|:----------------------:|:----------------------:|
+| Post                   | Post                   | Post                   |
+| Printed Binding Base   | Binding Base           | Printed Binding Base   |
+| (case)                 | (case)                 | (case)                 |
+| Printed Binding Spacer | Post's Plastic Spacer  | Printed Binding Spacer |
+| Post's Plastic Spacer  | Hex Nut                | Hex Nut                |
+| PCB Board              | PCB Board              | PCB Board              |
+| Post's Lock Washer     | Post's Lock Washer     | Post's Lock Washer     |
+| Post's Hex Nut         | Post's Hex Nut         | Post's Hex Nut         |
