@@ -11,3 +11,16 @@
 
 † Not needed if binding spacer is 3D printed (recommended).
 ‡ Not needed if binding post is 3D printed (recommended).
+
+## Stackup
+
+| 3D Printed             | Not 3D Printed         |
+|:----------------------:|:----------------------:|
+| Connector              | Connector              |
+| Printed Binding Base   | Binding Base           |
+| (case)                 | (case)                 |
+| Printed Binding Spacer | Post's Plastic Spacer  |
+| Post's Plastic Spacer  | Hex nut                |
+| PCB Board              | PCB Board              |
+| Post's Lock Washer     | Post's Lock Washer     |
+| Post's Hex Nut         | Post's Hex Nut         |
