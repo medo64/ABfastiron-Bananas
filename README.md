@@ -15,3 +15,4 @@ See also:
 * [Blog post](https://www.medo64.com/2021/07/changing-a-bfastiron-ss-305mp-binding-posts/)
 
 ![Front panel](Resources/ss305mp-front.jpg)
+![Inside](Resources/ss305mp-inside.jpg)
