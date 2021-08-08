@@ -13,6 +13,7 @@ See also:
 * [Binding Post Base 3D Model](Board/ABfastiron-Bananas-Binding.md)
 * [Spacing Post Spacer 3D Model](Board/ABfastiron-Bananas-Spacing.md)
 * [Blog post](https://www.medo64.com/2021/07/changing-a-bfastiron-ss-305mp-binding-posts/)
+* [Repository](https://github.com/medo64/ABfastiron-Bananas)
 
 ![Front panel](Resources/ss305mp-front.jpg)
 ![Inside](Resources/ss305mp-inside.jpg)
